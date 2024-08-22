@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(183, 194, 211);
+}
+h1{
+  color: white;
+}
+h3 {
+  color: rgb(110, 15, 74);
+}
+li{
+  color: white;
+}
+h2{
+  background-color: rgb(0, 204, 255);
+  border: 2px solid;
+}
+#red{
+  color: rgba(6, 0, 17, 0.579);
+}
