@@ -9,12 +9,7 @@
         "list": "off"
       }
     ],
-    "axe/forms": [
-      "default",
-      {
-        "label": "off"
-      }
-    ],
+    "axe/forms": "off",
     "axe/parsing": [
       "default",
       {

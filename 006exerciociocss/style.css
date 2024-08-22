@@ -1,0 +1,36 @@
+h1{
+  color: brown;
+  font-size: 50px;
+  /*border-color: yellow;
+  border-width: 2px;
+  border-style: dashed;
+  Observação: abaixo está a forma simplificada do código de borda
+  */
+  border: 2px dashed yellow;
+}
+h4{
+  color: blue;
+}
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2014/04/05/09/30/tablet-314153_1280.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.green-test {
+  color: green;
+  font-size: 20px;
+
+}
+#contry-text{
+  font-size: 40px;
+  color: rgb(132, 56, 97);
+
+}
+.big-text{
+font-size: 60px;
+color: black;
+}
+li{
+  color: rgb(94, 87, 87);
+}
