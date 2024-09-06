@@ -27,6 +27,7 @@
       {
         "image-alt": "off"
       }
-    ]
+    ],
+    "button-type": "off"
   }
 }
